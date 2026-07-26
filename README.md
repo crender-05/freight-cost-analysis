@@ -4,6 +4,8 @@ Analysis of 6,124 shipment records from the Supply Chain Shipment
 Pricing Dataset, identifying what drives freight cost as a percentage 
 of shipment value across shipment mode, vendor, and destination.
 
+[Dashboard Screenshot](dashboard_iamge.png)
+
 ## Key Findings
 
 1. **Shipment mode drives cost significantly** — Air freight (Air and 
@@ -47,8 +49,8 @@ of shipment value across shipment mode, vendor, and destination.
 
 ## Files
 
-- `freight_cost_analysis.ipynb` — full analysis notebook
-- `dashboard_screenshot.png` — final Power BI dashboard
+- [Jupyter Notebook(freight_cost_analysis.ipynb) — full analysis notebook
+- [Dashboard](dashboard_iamge.png) — final Power BI dashboard
 - `README.md` — this file
 
 ## Data Source
