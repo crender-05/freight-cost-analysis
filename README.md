@@ -8,15 +8,15 @@ of shipment value across shipment mode, vendor, and destination.
 
 ## Key Findings
 
-1. **Shipment mode drives cost significantly** — Air freight (Air and 
+1. **Shipment mode drives cost significantly** - Air freight (Air and 
    Air Charter) costs 2-3x more relative to shipment value than Truck 
    or Ocean, holding true at both median and 75th percentile.
 
-2. **Vendor cost varies 4x among comparable partners** — Among 
+2. **Vendor cost varies 4x among comparable partners** - Among 
    high-volume vendors, freight cost ranges from 5.8% (Mylan 
    Laboratories) to 25.0% (ABBVIE Logistics) of shipment value.
 
-3. **Destination is an independent cost driver** — Controlling for 
+3. **Destination is an independent cost driver** - Controlling for 
    both vendor and shipment mode, Zimbabwe consistently costs more 
    than Zambia to ship to (12.4% vs. 5.7% median), confirmed via 
    Mann-Whitney U test (p < 0.001). This held across every vendor 
@@ -49,9 +49,9 @@ of shipment value across shipment mode, vendor, and destination.
 
 ## Files
 
-- [Freight Cost Analysis](freight_cost_analysis.ipynb) — full analysis notebook
-- `dashboard_image.png` — final Power BI dashboard
-- `README.md` — this file
+- [Freight Cost Analysis](freight_cost_analysis.ipynb) - full analysis notebook
+- `dashboard_image.png` - final Power BI dashboard
+- `README.md` - this file
 
 ## Data Source
 
