@@ -40,7 +40,7 @@ of shipment value across shipment mode, vendor, and destination.
   checking each for confounding with the others via crosstabs and a 
   multi-variable OLS regression
   - **Confounding validation:** Tested whether the destination effect was actually 
-  driven by vendor or shipment mode by holding each constant — compared one 
+  driven by vendor or shipment mode by holding each constant, then compared one 
   vendor (Aurobindo) across 10 destinations, and compared multiple vendors 
   shipping to both Zambia and Zimbabwe directly. The destination effect held 
   in both tests, ruling out vendor and mode as alternative explanations.
