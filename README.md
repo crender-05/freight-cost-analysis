@@ -37,8 +37,7 @@ of shipment value across shipment mode, vendor, and destination.
 - **Tools:** Python (pandas, scipy, statsmodels), Power BI
 - **Approach:** Calculated freight cost as % of shipment value, then 
   tested shipment mode, vendor, and destination as potential drivers, 
-  checking each for confounding with the others via crosstabs and a 
-  multi-variable OLS regression
+  checking each for confounding with the others via crosstabs
   - **Confounding validation:** Tested whether the destination effect was actually 
   driven by vendor or shipment mode by holding each constant, then compared one 
   vendor (Aurobindo) across 10 destinations, and compared multiple vendors 
