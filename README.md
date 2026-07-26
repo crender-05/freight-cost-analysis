@@ -49,8 +49,8 @@ of shipment value across shipment mode, vendor, and destination.
 
 ## Files
 
-- [Jupyter Notebook(freight_cost_analysis.ipynb) — full analysis notebook
-- [Dashboard Screenshot](dashboard_image.png) — final Power BI dashboard
+- `freight_cost_analysis.ipynb` — full analysis notebook
+- `dashboard_image.png` — final Power BI dashboard
 - `README.md` — this file
 
 ## Data Source
